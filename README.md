@@ -10,10 +10,11 @@ https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
 
 # Installation Dependencies:
 
-* Python 2.7
+* Python 2.7/3
 * Keras 1.0 
 * pygame
 * scikit-image
+* h5py
 
 # How to Run?
 
